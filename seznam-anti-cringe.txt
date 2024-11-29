@@ -1,0 +1,16 @@
+[Adblock Plus 2.0]
+! Title: Seznam CZ Anti Cringe
+! Last change: 29/11/2024
+! List maintainers: mr-rose
+! GitHub repository: https://github.com/Its-Mr-Rose/seznam-cz-anti-cringe
+! GitHub contributors: https://github.com/Its-Mr-Rose/seznam-cz-anti-cringe/graphs/contributors
+! Expires: 1 days
+! License: MIT
+! Supported filters: https://adblockplus.org/en/filters
+
+www.seznam.cz##.gadget--novinky.ogm-gadget-rss.pb-6.text-left.w-100
+www.seznam.cz##.gadget--super.ogm-gadget-rss.pb-6.text-left.w-100
+www.seznam.cz##.gadget--prozeny.ogm-gadget-rss.pb-6.text-left.w-100
+www.seznam.cz###boxik-185
+www.seznam.cz##.timeline.hlijpnphhignkjphoolm
+www.seznam.cz##.qunrntvormqqqmnsots.ddcgdcellhjiffgdece.d-flex
